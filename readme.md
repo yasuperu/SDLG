@@ -6,7 +6,7 @@ SDLG is a proof of concept for using an LSTM network to generate text in an SVG 
 
 example outcomes:
 
-<img src="data/examples/logo1.png" width="425"/> <img src="data/examples/logo2.png" width="425"/> 
-<img src="data/examples/logo3.png" width="425"/> <img src="data/examples/logo4.png" width="425"/> 
-<img src="data/examples/logo5.png" width="425"/> <img src="data/examples/logo6.png" width="425"/> 
-<img src="data/examples/logo7.png" width="425"/> <img src="data/examples/logo8.png" width="425"/> 
+<img src="data/examples/logo1.png" width="225" height="225"/> <img src="data/examples/logo2.png" width="225" height="225"/> 
+<img src="data/examples/logo3.png" width="225" height="225"/> <img src="data/examples/logo4.png" width="225" height="225"/> 
+<img src="data/examples/logo5.png" width="225" height="225"/> <img src="data/examples/logo6.png" width="225" height="225"/> 
+<img src="data/examples/logo7.png" width="225" height="225"/> <img src="data/examples/logo8.png" width="225" height="225"/> 
